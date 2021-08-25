@@ -1,5 +1,3 @@
-const lista1 = [100, 200, 300, 400];
-
 function calcular_promedio(lista) {
   //   let suma_lista = 0;
   //   for (let i = 0; i < lista.length; i++) {
